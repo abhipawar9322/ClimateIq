@@ -1,0 +1,26 @@
+facility_id,facility_name,sector,city,country,asset_value_m,annual_revenue_m,employees,backup_power,flood_barrier,water_recycling,insurance_tier
+FAC-001,GigaWatt Data Center Alpha,Data Centers & IT Infrastructure,Frankfurt,Germany,420.0,185.0,160,True,True,True,Standard
+FAC-002,Bayside Automated Port Hub,"Logistics, Ports & Warehousing",Rotterdam,Netherlands,650.0,310.0,850,True,True,False,Premium
+FAC-003,Apex Microchip Fabrication 1,Manufacturing & Heavy Industrial,Phoenix,USA,850.0,420.0,1200,True,False,True,Premium
+FAC-004,Monsoon Coast Chemical Plant,Manufacturing & Heavy Industrial,Mumbai,India,380.0,190.0,720,False,False,False,High Deductible
+FAC-005,Equatorial Cloud Supercenter,Data Centers & IT Infrastructure,Singapore,Singapore,510.0,240.0,210,True,True,True,Standard
+FAC-006,Gulf Coast Petrochemicals,Manufacturing & Heavy Industrial,Houston,USA,720.0,560.0,940,True,False,False,High Deductible
+FAC-007,Solara Mega Solar Array,Renewable Energy & Utilities,Dubai,UAE,310.0,95.0,90,True,False,True,Standard
+FAC-008,Chao Phraya Electronics Assembly,Manufacturing & Heavy Industrial,Bangkok,Thailand,260.0,140.0,1800,False,False,False,High Deductible
+FAC-009,Hudson Financial Headquarters,Commercial Real Estate & Hospitality,New York,USA,940.0,620.0,3400,True,True,False,Standard
+FAC-010,Pacific Gateway Freight Terminal,"Logistics, Ports & Warehousing",Tokyo,Japan,490.0,275.0,640,True,True,False,Premium
+FAC-011,Southern Grain Silos & Mills,Agriculture & Food Supply,Buenos Aires,Argentina,140.0,85.0,320,False,False,False,Standard
+FAC-012,Delta Agri Processing Center,Agriculture & Food Supply,Ho Chi Minh City,Vietnam,185.0,110.0,650,False,False,False,High Deductible
+FAC-013,Silicon Beach R&D Campus,Data Centers & IT Infrastructure,Los Angeles,USA,390.0,215.0,1100,True,False,True,Standard
+FAC-014,Coromandel Auto Components,Manufacturing & Heavy Industrial,Chennai,India,230.0,130.0,980,False,True,False,Standard
+FAC-015,Cascadia Pulp & Timber Logistics,"Logistics, Ports & Warehousing",Vancouver,Canada,175.0,92.0,410,True,False,False,Standard
+FAC-016,Iberian Mediterranean Logistics Depot,"Logistics, Ports & Warehousing",Valencia,Spain,210.0,115.0,380,True,False,False,Standard
+FAC-017,Highveld Industrial Refinery,Manufacturing & Heavy Industrial,Johannesburg,South Africa,290.0,160.0,520,False,False,True,High Deductible
+FAC-018,Thames Executive Trade Tower,Commercial Real Estate & Hospitality,London,UK,680.0,340.0,2200,True,True,False,Standard
+FAC-019,Yangtze Advanced Biotech Hub,Manufacturing & Heavy Industrial,Shanghai,China,450.0,280.0,1450,True,True,True,Premium
+FAC-020,Outback Lithium Extraction & Refining,Renewable Energy & Utilities,Sydney,Australia,540.0,310.0,460,True,False,True,Standard
+FAC-021,Nile Valley Agro Irrigation Base,Agriculture & Food Supply,Cairo,Egypt,120.0,60.0,280,False,False,True,High Deductible
+FAC-022,Paulista Financial & Tech Center,Commercial Real Estate & Hospitality,São Paulo,Brazil,360.0,195.0,1850,True,False,False,Standard
+FAC-023,Java Sea Multimodal Depot,"Logistics, Ports & Warehousing",Jakarta,Indonesia,310.0,145.0,590,False,False,False,High Deductible
+FAC-024,Han River High-Tech Foundry,Manufacturing & Heavy Industrial,Seoul,South Korea,620.0,390.0,1300,True,True,True,Premium
+FAC-025,Victoria Clean Energy Substation,Renewable Energy & Utilities,Melbourne,Australia,280.0,125.0,110,True,False,False,Standard

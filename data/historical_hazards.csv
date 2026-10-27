@@ -1,0 +1,451 @@
+record_id,year,month,city,hazard_type,severity_index,direct_loss_usd_m,facility_downtime_days,supply_chain_disrupted
+HAZ-0001,2010,4,Los Angeles,Drought,64.5,109.85,8,1
+HAZ-0002,2024,4,Frankfurt,Drought,82.4,45.76,36,1
+HAZ-0003,2009,2,Valencia,Flood,59.8,99.71,12,1
+HAZ-0004,2013,12,Bangkok,Drought,16.7,25.65,7,1
+HAZ-0005,2008,3,Dubai,Severe Storm,49.1,149.56,14,1
+HAZ-0006,2024,2,Vancouver,Wildfire,54.4,91.86,7,1
+HAZ-0007,2018,3,Shanghai,Flood,71.5,95.86,20,1
+HAZ-0008,2021,10,London,Heatwave,30.6,47.92,12,1
+HAZ-0009,2018,8,Shanghai,Wildfire,52.7,81.63,10,1
+HAZ-0010,2016,9,Los Angeles,Severe Storm,49.0,34.35,21,1
+HAZ-0011,2015,8,Buenos Aires,Drought,67.7,178.35,21,1
+HAZ-0012,2012,12,Dubai,Flood,36.9,80.47,7,0
+HAZ-0013,2008,3,London,Drought,14.1,44.08,5,1
+HAZ-0014,2017,7,Sydney,Heatwave,76.4,43.44,10,0
+HAZ-0015,2010,1,Vancouver,Severe Storm,73.1,85.72,17,1
+HAZ-0016,2007,7,Chennai,Wildfire,55.4,166.7,21,1
+HAZ-0017,2009,12,London,Wildfire,74.3,102.15,10,1
+HAZ-0018,2004,1,Melbourne,Drought,50.8,83.99,19,1
+HAZ-0019,2010,6,Frankfurt,Drought,26.7,21.98,5,1
+HAZ-0020,2012,4,Seoul,Flood,46.6,55.23,8,1
+HAZ-0021,2006,1,Tokyo,Flood,53.7,31.65,11,1
+HAZ-0022,2005,5,London,Heatwave,61.9,195.68,11,1
+HAZ-0023,2014,8,Seoul,Severe Storm,83.1,161.77,10,1
+HAZ-0024,2009,3,Vancouver,Wildfire,82.8,192.98,8,1
+HAZ-0025,2022,4,Dubai,Wildfire,52.1,98.94,20,1
+HAZ-0026,2021,7,São Paulo,Drought,67.3,75.22,10,1
+HAZ-0027,2023,12,Seoul,Heatwave,75.0,75.72,14,1
+HAZ-0028,2019,3,Vancouver,Flood,58.0,129.65,7,0
+HAZ-0029,2009,8,Vancouver,Drought,66.3,207.56,13,0
+HAZ-0030,2005,6,Singapore,Severe Storm,51.7,57.17,18,0
+HAZ-0031,2024,4,Buenos Aires,Drought,71.4,53.79,16,0
+HAZ-0032,2017,6,Houston,Severe Storm,92.9,168.6,38,1
+HAZ-0033,2024,1,Los Angeles,Flood,67.5,84.94,7,1
+HAZ-0034,2020,12,Shanghai,Severe Storm,37.9,109.23,13,1
+HAZ-0035,2020,5,Singapore,Wildfire,46.0,70.75,18,0
+HAZ-0036,2021,9,São Paulo,Heatwave,70.5,212.4,8,0
+HAZ-0037,2018,6,Ho Chi Minh City,Heatwave,37.9,51.95,15,0
+HAZ-0038,2019,7,São Paulo,Heatwave,34.5,92.6,13,1
+HAZ-0039,2010,9,Rotterdam,Severe Storm,43.9,126.99,4,1
+HAZ-0040,2022,9,Johannesburg,Heatwave,52.4,148.06,9,0
+HAZ-0041,2018,6,Jakarta,Wildfire,74.3,91.66,32,1
+HAZ-0042,2009,4,Los Angeles,Drought,44.8,99.46,15,1
+HAZ-0043,2013,3,Seoul,Drought,39.1,22.25,17,1
+HAZ-0044,2012,12,Valencia,Flood,52.7,51.01,8,0
+HAZ-0045,2019,9,Frankfurt,Severe Storm,62.5,134.58,15,0
+HAZ-0046,2019,3,Tokyo,Flood,88.0,125.27,11,0
+HAZ-0047,2017,4,Tokyo,Wildfire,44.0,77.23,14,0
+HAZ-0048,2008,4,New York,Wildfire,76.9,116.29,24,1
+HAZ-0049,2004,8,Tokyo,Severe Storm,51.0,106.06,21,1
+HAZ-0050,2021,3,Mumbai,Flood,56.2,151.24,21,1
+HAZ-0051,2004,1,Frankfurt,Heatwave,41.6,44.92,9,0
+HAZ-0052,2021,3,Ho Chi Minh City,Flood,37.6,85.46,8,1
+HAZ-0053,2005,3,Sydney,Wildfire,34.1,103.41,3,1
+HAZ-0054,2007,10,Tokyo,Flood,81.5,165.91,24,1
+HAZ-0055,2007,2,Seoul,Severe Storm,70.3,175.57,12,1
+HAZ-0056,2020,4,Bangkok,Flood,32.8,44.71,13,1
+HAZ-0057,2015,9,Chennai,Wildfire,62.8,146.25,16,1
+HAZ-0058,2019,5,Tokyo,Drought,52.5,111.67,15,0
+HAZ-0059,2024,7,Bangkok,Flood,91.3,284.35,31,1
+HAZ-0060,2020,6,Dubai,Severe Storm,63.1,69.46,15,1
+HAZ-0061,2005,5,Tokyo,Drought,76.2,219.27,13,1
+HAZ-0062,2016,4,Rotterdam,Wildfire,59.7,43.35,22,1
+HAZ-0063,2013,10,Chennai,Drought,43.5,88.9,15,1
+HAZ-0064,2012,7,Mumbai,Drought,25.2,52.21,10,1
+HAZ-0065,2020,9,Buenos Aires,Flood,59.5,41.59,17,1
+HAZ-0066,2021,9,Seoul,Flood,55.3,121.25,16,1
+HAZ-0067,2014,12,São Paulo,Wildfire,48.8,46.79,15,1
+HAZ-0068,2021,12,Tokyo,Flood,40.3,48.38,10,0
+HAZ-0069,2012,1,Valencia,Wildfire,24.7,21.24,3,1
+HAZ-0070,2022,5,Los Angeles,Flood,68.6,111.76,29,1
+HAZ-0071,2016,5,Ho Chi Minh City,Flood,52.8,166.99,12,1
+HAZ-0072,2020,1,New York,Flood,85.5,138.58,16,0
+HAZ-0073,2009,12,Seoul,Severe Storm,85.3,260.31,33,0
+HAZ-0074,2017,9,Shanghai,Flood,61.2,188.4,19,0
+HAZ-0075,2020,8,New York,Wildfire,10.0,27.45,2,1
+HAZ-0076,2015,5,Melbourne,Flood,49.6,42.78,5,1
+HAZ-0077,2024,2,Jakarta,Drought,59.7,187.79,18,1
+HAZ-0078,2018,11,Chennai,Heatwave,71.1,102.34,19,1
+HAZ-0079,2013,3,Seoul,Severe Storm,51.1,141.75,18,0
+HAZ-0080,2008,2,Houston,Severe Storm,83.4,119.92,14,1
+HAZ-0081,2014,3,Los Angeles,Flood,100.0,158.08,34,0
+HAZ-0082,2007,8,Melbourne,Drought,33.0,94.3,9,1
+HAZ-0083,2022,3,Valencia,Severe Storm,29.4,17.22,8,1
+HAZ-0084,2015,10,Shanghai,Heatwave,29.0,24.55,6,0
+HAZ-0085,2018,9,Johannesburg,Drought,72.0,181.53,11,0
+HAZ-0086,2017,10,Ho Chi Minh City,Heatwave,42.6,107.26,4,0
+HAZ-0087,2010,3,Los Angeles,Drought,35.6,60.73,10,0
+HAZ-0088,2008,12,São Paulo,Flood,56.6,156.75,7,1
+HAZ-0089,2020,4,Melbourne,Wildfire,81.9,146.93,24,1
+HAZ-0090,2018,8,Frankfurt,Flood,28.8,58.39,6,0
+HAZ-0091,2023,10,New York,Drought,27.0,20.94,4,0
+HAZ-0092,2007,11,Buenos Aires,Flood,66.3,47.48,18,1
+HAZ-0093,2007,8,Houston,Heatwave,70.9,36.49,31,1
+HAZ-0094,2009,3,Melbourne,Heatwave,57.9,116.0,17,0
+HAZ-0095,2015,5,Houston,Heatwave,39.7,74.33,7,0
+HAZ-0096,2017,6,Tokyo,Drought,18.9,57.02,4,1
+HAZ-0097,2009,2,Buenos Aires,Heatwave,94.9,99.18,32,0
+HAZ-0098,2008,9,Seoul,Flood,94.7,199.61,25,1
+HAZ-0099,2020,5,London,Heatwave,62.4,189.36,10,0
+HAZ-0100,2011,6,Frankfurt,Drought,42.9,113.62,7,0
+HAZ-0101,2024,5,Tokyo,Drought,60.8,89.3,24,1
+HAZ-0102,2011,8,Dubai,Drought,96.5,210.88,27,1
+HAZ-0103,2004,9,Seoul,Flood,68.7,46.73,12,1
+HAZ-0104,2009,6,Singapore,Drought,10.0,14.04,1,1
+HAZ-0105,2004,4,Dubai,Drought,45.3,60.71,8,1
+HAZ-0106,2007,6,New York,Heatwave,63.1,115.67,22,0
+HAZ-0107,2016,4,Cairo,Wildfire,80.7,73.05,14,1
+HAZ-0108,2005,11,Chennai,Drought,46.1,93.45,16,1
+HAZ-0109,2023,11,São Paulo,Heatwave,58.6,126.07,6,1
+HAZ-0110,2015,12,Rotterdam,Wildfire,100.0,263.32,10,1
+HAZ-0111,2020,12,Sydney,Drought,58.7,175.98,15,0
+HAZ-0112,2024,10,Shanghai,Wildfire,57.0,47.69,24,1
+HAZ-0113,2022,8,Los Angeles,Severe Storm,82.9,87.51,31,1
+HAZ-0114,2006,4,Melbourne,Heatwave,41.2,122.9,9,0
+HAZ-0115,2005,11,Seoul,Drought,64.4,61.01,7,0
+HAZ-0116,2014,6,Phoenix,Severe Storm,24.4,46.15,10,1
+HAZ-0117,2023,6,Johannesburg,Wildfire,28.2,36.92,5,1
+HAZ-0118,2022,11,Buenos Aires,Drought,58.0,83.68,15,1
+HAZ-0119,2019,8,Chennai,Heatwave,75.8,145.89,21,1
+HAZ-0120,2009,3,Rotterdam,Flood,35.0,49.08,4,1
+HAZ-0121,2013,10,Chennai,Heatwave,47.8,44.02,16,1
+HAZ-0122,2004,9,Ho Chi Minh City,Drought,53.6,60.25,17,0
+HAZ-0123,2018,5,Singapore,Drought,30.6,23.48,5,1
+HAZ-0124,2017,11,Bangkok,Wildfire,69.3,211.24,10,1
+HAZ-0125,2019,2,Dubai,Heatwave,21.6,62.87,8,0
+HAZ-0126,2013,2,Singapore,Wildfire,90.3,247.65,19,1
+HAZ-0127,2012,2,Valencia,Wildfire,47.9,97.12,21,1
+HAZ-0128,2020,2,Chennai,Flood,60.1,73.71,17,1
+HAZ-0129,2010,9,Johannesburg,Drought,34.1,100.0,11,1
+HAZ-0130,2009,2,Valencia,Heatwave,50.6,103.97,9,1
+HAZ-0131,2009,10,London,Severe Storm,87.4,200.66,14,1
+HAZ-0132,2024,12,Shanghai,Heatwave,86.4,82.0,30,0
+HAZ-0133,2007,3,Valencia,Drought,36.5,89.2,7,1
+HAZ-0134,2005,7,Los Angeles,Severe Storm,28.0,50.51,5,1
+HAZ-0135,2022,3,Vancouver,Drought,62.5,111.26,13,1
+HAZ-0136,2004,9,Jakarta,Heatwave,34.0,59.24,4,0
+HAZ-0137,2015,12,Chennai,Heatwave,48.8,130.91,21,1
+HAZ-0138,2020,12,Bangkok,Drought,41.8,103.59,15,1
+HAZ-0139,2019,6,Frankfurt,Flood,60.3,143.1,7,1
+HAZ-0140,2013,7,Seoul,Heatwave,69.7,141.71,29,0
+HAZ-0141,2024,7,Sydney,Drought,54.2,153.28,21,0
+HAZ-0142,2013,7,Seoul,Drought,68.6,138.21,18,1
+HAZ-0143,2014,8,Ho Chi Minh City,Wildfire,81.7,159.57,27,1
+HAZ-0144,2004,10,London,Heatwave,61.4,34.72,24,0
+HAZ-0145,2016,2,Singapore,Drought,44.7,80.18,14,1
+HAZ-0146,2018,9,São Paulo,Flood,83.2,117.14,23,1
+HAZ-0147,2020,3,Cairo,Heatwave,34.9,21.43,3,1
+HAZ-0148,2012,1,Melbourne,Wildfire,39.6,43.18,17,1
+HAZ-0149,2014,12,Houston,Drought,53.1,84.06,20,0
+HAZ-0150,2022,10,Jakarta,Heatwave,56.1,86.21,6,1
+HAZ-0151,2009,5,Tokyo,Flood,100.0,191.76,19,1
+HAZ-0152,2021,1,Buenos Aires,Drought,64.4,174.04,11,0
+HAZ-0153,2018,9,Sydney,Wildfire,38.2,109.59,7,0
+HAZ-0154,2012,3,Melbourne,Heatwave,58.3,164.84,22,1
+HAZ-0155,2008,11,New York,Wildfire,27.4,67.25,7,0
+HAZ-0156,2019,12,Tokyo,Severe Storm,40.4,113.0,11,1
+HAZ-0157,2022,10,Singapore,Heatwave,77.1,191.26,21,1
+HAZ-0158,2004,11,Bangkok,Flood,57.7,80.82,10,1
+HAZ-0159,2007,11,Houston,Wildfire,51.7,72.57,18,0
+HAZ-0160,2007,2,Shanghai,Severe Storm,57.9,108.35,5,0
+HAZ-0161,2017,11,Seoul,Flood,27.8,61.49,8,1
+HAZ-0162,2009,3,Dubai,Heatwave,69.9,116.57,27,1
+HAZ-0163,2018,5,Johannesburg,Wildfire,65.4,199.89,10,1
+HAZ-0164,2020,10,Johannesburg,Flood,42.5,27.9,5,1
+HAZ-0165,2017,12,Rotterdam,Drought,62.3,35.31,6,0
+HAZ-0166,2018,3,Jakarta,Heatwave,44.5,22.37,6,1
+HAZ-0167,2007,1,Singapore,Severe Storm,56.8,155.01,11,1
+HAZ-0168,2018,4,Johannesburg,Drought,78.3,96.94,33,0
+HAZ-0169,2024,5,Vancouver,Drought,73.0,81.78,12,0
+HAZ-0170,2015,2,Los Angeles,Wildfire,50.9,90.43,22,0
+HAZ-0171,2020,5,Frankfurt,Drought,64.2,140.65,9,0
+HAZ-0172,2006,4,Shanghai,Flood,67.2,33.8,20,1
+HAZ-0173,2023,4,Sydney,Flood,63.9,88.17,19,1
+HAZ-0174,2016,1,Frankfurt,Severe Storm,35.1,24.41,8,1
+HAZ-0175,2009,11,Cairo,Flood,62.4,37.9,16,0
+HAZ-0176,2020,12,Melbourne,Wildfire,64.6,154.77,19,0
+HAZ-0177,2004,2,Mumbai,Flood,45.6,62.43,20,0
+HAZ-0178,2021,2,São Paulo,Wildfire,76.5,59.85,24,1
+HAZ-0179,2009,9,Houston,Flood,56.2,135.67,22,1
+HAZ-0180,2023,11,Dubai,Drought,42.1,122.65,12,1
+HAZ-0181,2006,9,São Paulo,Drought,68.0,153.41,18,1
+HAZ-0182,2022,7,Shanghai,Wildfire,86.3,216.69,34,1
+HAZ-0183,2022,12,Phoenix,Heatwave,28.8,56.54,7,0
+HAZ-0184,2022,3,Johannesburg,Flood,79.0,218.68,12,1
+HAZ-0185,2023,5,Rotterdam,Wildfire,23.8,58.42,6,1
+HAZ-0186,2005,4,Houston,Heatwave,95.0,302.09,18,1
+HAZ-0187,2006,2,Frankfurt,Severe Storm,42.5,103.36,17,0
+HAZ-0188,2015,2,Ho Chi Minh City,Severe Storm,62.9,176.6,17,0
+HAZ-0189,2018,8,Dubai,Flood,41.3,93.33,8,1
+HAZ-0190,2006,5,Tokyo,Flood,60.5,156.62,8,1
+HAZ-0191,2018,11,São Paulo,Drought,16.6,28.46,5,0
+HAZ-0192,2008,4,Frankfurt,Drought,41.8,128.09,7,1
+HAZ-0193,2014,5,Los Angeles,Severe Storm,84.9,204.13,21,1
+HAZ-0194,2009,12,Vancouver,Heatwave,58.6,185.27,8,0
+HAZ-0195,2004,7,Singapore,Severe Storm,51.2,95.72,5,0
+HAZ-0196,2024,2,Buenos Aires,Drought,64.0,32.84,27,1
+HAZ-0197,2010,8,Los Angeles,Drought,96.8,84.87,10,0
+HAZ-0198,2019,2,São Paulo,Wildfire,52.2,121.03,22,0
+HAZ-0199,2011,6,Tokyo,Heatwave,52.9,61.37,20,1
+HAZ-0200,2020,12,Frankfurt,Flood,54.5,128.63,18,0
+HAZ-0201,2019,5,Bangkok,Severe Storm,18.0,16.72,5,0
+HAZ-0202,2004,9,Melbourne,Severe Storm,73.9,192.98,22,1
+HAZ-0203,2007,2,Houston,Wildfire,75.9,194.26,28,1
+HAZ-0204,2014,1,Buenos Aires,Flood,66.4,92.07,21,1
+HAZ-0205,2018,5,Chennai,Wildfire,99.2,195.84,25,0
+HAZ-0206,2014,3,Frankfurt,Heatwave,77.2,196.98,21,1
+HAZ-0207,2011,2,Houston,Wildfire,27.2,56.23,7,1
+HAZ-0208,2019,7,Houston,Heatwave,22.1,53.72,6,1
+HAZ-0209,2014,7,Bangkok,Severe Storm,49.9,149.99,6,1
+HAZ-0210,2022,2,Shanghai,Severe Storm,62.8,136.17,17,1
+HAZ-0211,2018,12,Singapore,Heatwave,85.3,105.43,20,0
+HAZ-0212,2014,7,London,Heatwave,70.5,187.39,11,0
+HAZ-0213,2020,10,São Paulo,Wildfire,38.5,104.18,8,1
+HAZ-0214,2018,11,Cairo,Severe Storm,52.0,150.12,9,0
+HAZ-0215,2013,8,Melbourne,Severe Storm,58.5,117.23,11,0
+HAZ-0216,2022,4,Dubai,Heatwave,60.3,161.97,22,0
+HAZ-0217,2021,5,Los Angeles,Flood,67.7,73.44,9,0
+HAZ-0218,2018,3,Dubai,Drought,63.3,71.27,14,1
+HAZ-0219,2005,3,Dubai,Severe Storm,42.6,72.65,15,0
+HAZ-0220,2017,3,Rotterdam,Heatwave,92.9,131.08,38,1
+HAZ-0221,2007,8,Tokyo,Flood,22.4,33.35,4,1
+HAZ-0222,2016,1,New York,Wildfire,86.6,230.49,15,1
+HAZ-0223,2009,8,Phoenix,Drought,15.1,21.16,5,1
+HAZ-0224,2005,6,Seoul,Drought,62.5,154.5,16,0
+HAZ-0225,2015,10,Rotterdam,Severe Storm,65.8,68.57,18,0
+HAZ-0226,2019,12,Seoul,Wildfire,36.6,115.22,9,1
+HAZ-0227,2022,8,Johannesburg,Severe Storm,72.3,83.72,24,0
+HAZ-0228,2021,8,Dubai,Flood,70.3,150.61,19,0
+HAZ-0229,2017,4,Mumbai,Heatwave,31.9,45.73,5,1
+HAZ-0230,2006,4,Ho Chi Minh City,Heatwave,24.2,51.43,6,1
+HAZ-0231,2014,6,Tokyo,Wildfire,56.6,86.52,23,1
+HAZ-0232,2009,3,Bangkok,Wildfire,53.0,143.72,11,0
+HAZ-0233,2005,3,Phoenix,Wildfire,69.2,142.16,18,0
+HAZ-0234,2017,1,Shanghai,Severe Storm,57.4,77.92,24,1
+HAZ-0235,2016,5,New York,Severe Storm,56.1,174.45,14,0
+HAZ-0236,2017,4,Phoenix,Severe Storm,65.6,51.51,21,0
+HAZ-0237,2005,12,Ho Chi Minh City,Drought,77.9,79.27,13,1
+HAZ-0238,2021,8,Los Angeles,Flood,14.7,24.41,2,0
+HAZ-0239,2017,3,Dubai,Wildfire,85.4,95.5,15,0
+HAZ-0240,2023,4,Houston,Heatwave,82.0,69.91,33,1
+HAZ-0241,2006,7,Johannesburg,Severe Storm,63.4,74.21,9,1
+HAZ-0242,2009,5,São Paulo,Heatwave,53.0,53.61,16,0
+HAZ-0243,2021,5,Valencia,Heatwave,27.2,61.14,7,0
+HAZ-0244,2024,10,Rotterdam,Heatwave,39.8,54.73,14,1
+HAZ-0245,2012,4,Houston,Heatwave,60.7,186.91,22,0
+HAZ-0246,2004,2,Bangkok,Severe Storm,59.1,74.18,25,0
+HAZ-0247,2011,5,Jakarta,Heatwave,36.0,40.09,14,1
+HAZ-0248,2016,3,Tokyo,Wildfire,11.8,22.15,3,0
+HAZ-0249,2014,1,Cairo,Drought,28.1,40.52,10,1
+HAZ-0250,2022,11,Tokyo,Severe Storm,35.6,81.19,13,0
+HAZ-0251,2009,12,Seoul,Flood,50.8,156.97,13,1
+HAZ-0252,2013,5,Rotterdam,Wildfire,52.7,93.76,7,1
+HAZ-0253,2019,12,New York,Drought,38.4,58.21,11,1
+HAZ-0254,2021,6,Vancouver,Wildfire,59.0,48.88,9,1
+HAZ-0255,2024,3,Ho Chi Minh City,Flood,61.0,135.36,10,1
+HAZ-0256,2017,8,Shanghai,Wildfire,21.8,14.08,4,1
+HAZ-0257,2016,2,New York,Severe Storm,43.0,133.42,11,0
+HAZ-0258,2015,6,Jakarta,Severe Storm,60.5,126.61,16,0
+HAZ-0259,2022,7,Dubai,Wildfire,80.8,75.32,21,0
+HAZ-0260,2004,12,Tokyo,Drought,68.5,217.57,9,1
+HAZ-0261,2013,2,Jakarta,Flood,88.4,191.22,14,1
+HAZ-0262,2016,9,Vancouver,Wildfire,62.9,32.33,23,0
+HAZ-0263,2020,9,New York,Severe Storm,26.0,23.45,5,1
+HAZ-0264,2008,10,Rotterdam,Severe Storm,32.9,73.54,12,0
+HAZ-0265,2008,6,Valencia,Severe Storm,46.7,74.04,18,1
+HAZ-0266,2006,8,Tokyo,Heatwave,31.4,63.27,9,1
+HAZ-0267,2005,2,Chennai,Wildfire,54.9,38.84,6,0
+HAZ-0268,2009,5,Rotterdam,Drought,81.2,137.19,12,0
+HAZ-0269,2004,2,Vancouver,Flood,85.3,272.48,36,1
+HAZ-0270,2020,6,Rotterdam,Wildfire,67.6,177.24,9,1
+HAZ-0271,2017,12,Jakarta,Flood,62.1,58.79,21,1
+HAZ-0272,2016,6,Seoul,Drought,56.0,73.13,24,0
+HAZ-0273,2017,10,Chennai,Severe Storm,47.6,127.02,12,1
+HAZ-0274,2009,10,Rotterdam,Heatwave,63.0,186.29,23,0
+HAZ-0275,2012,6,Shanghai,Wildfire,49.5,148.1,13,0
+HAZ-0276,2015,10,Johannesburg,Wildfire,35.0,43.57,6,1
+HAZ-0277,2013,6,São Paulo,Flood,44.5,29.76,18,0
+HAZ-0278,2007,2,Mumbai,Drought,54.7,78.68,22,0
+HAZ-0279,2014,4,Buenos Aires,Severe Storm,52.8,63.5,18,1
+HAZ-0280,2021,5,Singapore,Heatwave,42.9,43.62,9,0
+HAZ-0281,2024,12,Melbourne,Severe Storm,40.3,112.73,11,1
+HAZ-0282,2005,12,Jakarta,Flood,38.8,102.33,11,1
+HAZ-0283,2017,6,New York,Flood,33.1,75.89,5,0
+HAZ-0284,2019,3,Dubai,Wildfire,50.6,33.84,14,1
+HAZ-0285,2013,3,Chennai,Flood,42.1,39.75,9,1
+HAZ-0286,2018,8,Frankfurt,Severe Storm,39.0,89.0,6,0
+HAZ-0287,2012,8,Seoul,Heatwave,53.8,158.91,15,1
+HAZ-0288,2009,7,Vancouver,Flood,40.3,63.36,5,1
+HAZ-0289,2014,8,London,Heatwave,49.8,126.88,9,0
+HAZ-0290,2012,8,Phoenix,Heatwave,40.4,69.04,11,0
+HAZ-0291,2019,3,Cairo,Drought,100.0,59.01,22,1
+HAZ-0292,2019,11,Tokyo,Wildfire,58.7,155.8,25,1
+HAZ-0293,2012,12,Jakarta,Flood,60.3,138.9,19,0
+HAZ-0294,2009,10,Ho Chi Minh City,Drought,54.1,127.38,7,0
+HAZ-0295,2023,2,Tokyo,Drought,61.8,167.49,17,1
+HAZ-0296,2015,9,Jakarta,Heatwave,49.1,133.45,12,1
+HAZ-0297,2005,6,Singapore,Wildfire,35.0,84.82,13,0
+HAZ-0298,2024,3,Vancouver,Heatwave,44.9,64.64,11,1
+HAZ-0299,2019,6,Seoul,Severe Storm,63.6,75.4,7,1
+HAZ-0300,2005,2,Singapore,Wildfire,62.6,146.63,9,1
+HAZ-0301,2004,8,Ho Chi Minh City,Drought,57.5,76.19,10,0
+HAZ-0302,2024,5,Shanghai,Wildfire,93.8,284.47,37,1
+HAZ-0303,2006,12,Cairo,Heatwave,72.2,36.13,11,1
+HAZ-0304,2017,6,Shanghai,Wildfire,61.9,94.76,8,1
+HAZ-0305,2017,11,Vancouver,Flood,50.6,142.46,10,1
+HAZ-0306,2013,3,Sydney,Wildfire,63.4,34.8,27,1
+HAZ-0307,2022,4,Shanghai,Severe Storm,36.8,42.42,3,1
+HAZ-0308,2017,11,Valencia,Drought,56.8,63.15,20,1
+HAZ-0309,2007,12,Frankfurt,Heatwave,74.0,215.3,12,0
+HAZ-0310,2020,12,Singapore,Drought,89.2,284.38,35,1
+HAZ-0311,2008,4,Tokyo,Drought,89.4,171.55,9,1
+HAZ-0312,2005,8,Mumbai,Severe Storm,53.3,126.62,6,1
+HAZ-0313,2017,9,Chennai,Heatwave,48.0,146.94,12,1
+HAZ-0314,2022,4,Ho Chi Minh City,Wildfire,47.9,37.43,11,1
+HAZ-0315,2015,2,Buenos Aires,Heatwave,62.1,76.1,15,1
+HAZ-0316,2021,1,London,Heatwave,54.6,161.08,10,1
+HAZ-0317,2016,1,Singapore,Drought,29.2,61.27,8,1
+HAZ-0318,2020,8,Jakarta,Wildfire,10.0,7.92,2,1
+HAZ-0319,2020,10,Jakarta,Flood,39.4,85.38,5,0
+HAZ-0320,2010,7,Sydney,Severe Storm,51.1,118.77,5,1
+HAZ-0321,2017,1,Frankfurt,Wildfire,66.6,153.91,12,1
+HAZ-0322,2004,10,Dubai,Wildfire,62.0,168.37,6,1
+HAZ-0323,2016,7,Seoul,Wildfire,40.8,62.74,10,1
+HAZ-0324,2022,12,Frankfurt,Wildfire,61.9,181.29,14,0
+HAZ-0325,2012,7,New York,Severe Storm,33.2,69.8,3,1
+HAZ-0326,2012,9,Dubai,Wildfire,83.2,80.22,26,1
+HAZ-0327,2009,3,Bangkok,Heatwave,54.3,70.45,14,1
+HAZ-0328,2008,5,Seoul,Flood,50.8,125.51,16,1
+HAZ-0329,2014,2,Rotterdam,Drought,56.6,160.05,17,0
+HAZ-0330,2006,3,London,Flood,38.9,64.72,8,1
+HAZ-0331,2007,12,Mumbai,Heatwave,49.9,44.19,20,0
+HAZ-0332,2023,3,São Paulo,Wildfire,30.7,46.77,3,1
+HAZ-0333,2014,1,Seoul,Severe Storm,79.4,164.18,23,0
+HAZ-0334,2020,2,Tokyo,Drought,57.2,110.79,8,0
+HAZ-0335,2017,6,Jakarta,Drought,49.8,63.82,20,0
+HAZ-0336,2013,12,Tokyo,Drought,87.0,252.11,27,1
+HAZ-0337,2020,11,Los Angeles,Wildfire,100.0,95.45,18,1
+HAZ-0338,2006,10,New York,Severe Storm,18.9,19.37,2,0
+HAZ-0339,2015,5,London,Drought,15.4,31.86,2,1
+HAZ-0340,2018,2,Jakarta,Wildfire,70.0,110.87,31,1
+HAZ-0341,2011,6,Melbourne,Heatwave,89.4,80.4,35,1
+HAZ-0342,2022,11,Valencia,Heatwave,49.3,120.67,14,1
+HAZ-0343,2024,6,Jakarta,Wildfire,58.2,102.5,6,1
+HAZ-0344,2022,3,Bangkok,Wildfire,47.1,85.03,18,1
+HAZ-0345,2007,6,Jakarta,Flood,18.7,39.94,7,1
+HAZ-0346,2020,3,Valencia,Drought,93.7,150.01,36,1
+HAZ-0347,2007,7,Cairo,Drought,51.1,143.24,12,1
+HAZ-0348,2011,3,Houston,Drought,52.0,88.9,14,1
+HAZ-0349,2019,2,Johannesburg,Severe Storm,99.8,223.55,38,0
+HAZ-0350,2006,8,Melbourne,Drought,64.2,205.07,21,1
+HAZ-0351,2010,7,Singapore,Flood,79.2,54.35,8,1
+HAZ-0352,2012,1,Rotterdam,Drought,26.2,56.53,3,1
+HAZ-0353,2017,4,Houston,Drought,39.2,105.01,16,0
+HAZ-0354,2022,11,Houston,Heatwave,48.8,34.56,13,1
+HAZ-0355,2019,6,New York,Heatwave,74.6,79.85,30,1
+HAZ-0356,2017,8,Ho Chi Minh City,Drought,79.7,44.6,24,1
+HAZ-0357,2020,9,Valencia,Severe Storm,21.9,49.35,3,1
+HAZ-0358,2013,10,Rotterdam,Wildfire,79.1,175.53,22,1
+HAZ-0359,2017,4,Valencia,Wildfire,62.8,77.48,17,0
+HAZ-0360,2021,8,New York,Drought,44.8,55.27,10,0
+HAZ-0361,2020,10,Phoenix,Flood,37.8,29.32,8,0
+HAZ-0362,2005,12,Rotterdam,Wildfire,77.5,228.62,33,1
+HAZ-0363,2009,8,London,Drought,60.3,110.56,14,1
+HAZ-0364,2013,7,Valencia,Severe Storm,43.3,124.13,7,0
+HAZ-0365,2014,1,Rotterdam,Flood,42.6,111.35,13,0
+HAZ-0366,2008,6,Bangkok,Wildfire,48.7,138.14,12,0
+HAZ-0367,2017,3,London,Flood,79.7,222.84,13,1
+HAZ-0368,2014,6,Buenos Aires,Flood,48.6,128.78,17,0
+HAZ-0369,2012,8,Frankfurt,Wildfire,37.6,84.28,8,1
+HAZ-0370,2004,4,Valencia,Wildfire,77.5,47.75,25,1
+HAZ-0371,2013,5,London,Severe Storm,33.4,98.72,13,1
+HAZ-0372,2017,10,Singapore,Flood,70.8,176.06,15,1
+HAZ-0373,2023,8,Jakarta,Flood,55.4,129.16,11,1
+HAZ-0374,2018,1,Frankfurt,Wildfire,65.9,206.75,9,0
+HAZ-0375,2018,9,New York,Severe Storm,74.6,141.66,16,1
+HAZ-0376,2019,11,Valencia,Wildfire,40.2,79.53,16,1
+HAZ-0377,2014,8,Mumbai,Flood,36.3,33.09,15,1
+HAZ-0378,2005,2,Cairo,Wildfire,41.7,74.15,5,1
+HAZ-0379,2012,7,Tokyo,Wildfire,65.7,46.29,14,0
+HAZ-0380,2015,7,São Paulo,Flood,56.0,122.18,20,1
+HAZ-0381,2014,5,Frankfurt,Wildfire,86.6,104.08,19,1
+HAZ-0382,2018,9,Shanghai,Heatwave,34.7,82.0,14,1
+HAZ-0383,2012,11,Buenos Aires,Flood,55.8,64.29,15,1
+HAZ-0384,2008,6,Houston,Heatwave,66.7,131.82,10,1
+HAZ-0385,2006,6,Frankfurt,Wildfire,61.0,53.09,27,1
+HAZ-0386,2015,6,Sydney,Wildfire,68.8,211.01,30,1
+HAZ-0387,2015,11,Tokyo,Flood,38.6,91.96,9,1
+HAZ-0388,2005,7,Frankfurt,Severe Storm,81.3,228.27,30,0
+HAZ-0389,2004,11,Dubai,Flood,59.6,154.08,16,0
+HAZ-0390,2013,4,Tokyo,Wildfire,30.9,92.83,5,1
+HAZ-0391,2013,12,Frankfurt,Heatwave,82.8,98.09,15,1
+HAZ-0392,2015,10,Rotterdam,Flood,56.3,51.55,25,1
+HAZ-0393,2004,9,Dubai,Flood,40.4,23.75,4,1
+HAZ-0394,2017,1,Phoenix,Severe Storm,59.8,70.47,17,1
+HAZ-0395,2007,1,Phoenix,Flood,55.3,60.61,6,0
+HAZ-0396,2020,6,New York,Severe Storm,35.9,39.77,9,1
+HAZ-0397,2022,5,Singapore,Wildfire,38.9,56.53,16,1
+HAZ-0398,2011,5,Valencia,Wildfire,74.2,201.9,30,1
+HAZ-0399,2016,8,Sydney,Drought,46.4,102.88,10,0
+HAZ-0400,2006,5,Mumbai,Drought,56.7,42.92,22,0
+HAZ-0401,2007,2,Buenos Aires,Heatwave,56.3,98.51,6,0
+HAZ-0402,2016,5,Valencia,Flood,81.2,40.61,19,1
+HAZ-0403,2008,9,São Paulo,Severe Storm,34.4,17.34,12,1
+HAZ-0404,2009,3,Rotterdam,Flood,40.0,111.68,9,0
+HAZ-0405,2008,9,Bangkok,Drought,42.7,60.15,19,1
+HAZ-0406,2019,8,Johannesburg,Severe Storm,47.5,93.28,7,1
+HAZ-0407,2013,10,New York,Flood,70.5,126.98,15,1
+HAZ-0408,2018,9,Valencia,Severe Storm,27.1,21.05,7,1
+HAZ-0409,2007,1,Sydney,Heatwave,76.6,133.86,32,1
+HAZ-0410,2010,9,Seoul,Heatwave,74.9,200.69,12,0
+HAZ-0411,2009,4,Vancouver,Severe Storm,63.8,157.12,18,1
+HAZ-0412,2004,1,Singapore,Heatwave,70.6,66.36,26,1
+HAZ-0413,2021,1,Chennai,Drought,24.6,59.22,9,1
+HAZ-0414,2020,8,Chennai,Severe Storm,47.9,89.16,16,1
+HAZ-0415,2016,3,Chennai,Wildfire,63.4,170.18,21,1
+HAZ-0416,2005,8,Johannesburg,Drought,48.9,90.74,6,0
+HAZ-0417,2006,2,Bangkok,Drought,28.1,26.39,4,0
+HAZ-0418,2024,11,Tokyo,Drought,68.6,110.61,29,1
+HAZ-0419,2017,5,Johannesburg,Drought,41.5,58.15,14,0
+HAZ-0420,2018,7,Rotterdam,Flood,50.3,112.38,16,1
+HAZ-0421,2017,7,Chennai,Severe Storm,49.1,61.2,12,1
+HAZ-0422,2013,1,New York,Heatwave,44.4,35.81,10,1
+HAZ-0423,2023,9,Seoul,Drought,39.1,83.38,10,1
+HAZ-0424,2005,12,Buenos Aires,Heatwave,55.7,131.67,8,1
+HAZ-0425,2018,6,Vancouver,Drought,90.3,156.85,11,1
+HAZ-0426,2024,2,Johannesburg,Drought,42.4,63.99,12,1
+HAZ-0427,2019,6,Sydney,Drought,68.1,193.33,29,0
+HAZ-0428,2013,5,Los Angeles,Drought,24.3,60.4,9,0
+HAZ-0429,2007,2,Melbourne,Severe Storm,50.4,104.55,9,1
+HAZ-0430,2004,10,Rotterdam,Flood,54.1,149.8,8,1
+HAZ-0431,2019,6,Seoul,Heatwave,54.5,40.9,19,1
+HAZ-0432,2018,4,Sydney,Drought,51.5,27.02,15,1
+HAZ-0433,2012,10,Phoenix,Wildfire,66.7,180.85,7,1
+HAZ-0434,2004,9,Shanghai,Severe Storm,32.4,22.97,13,1
+HAZ-0435,2021,3,Mumbai,Drought,20.6,28.86,8,1
+HAZ-0436,2007,11,Cairo,Drought,80.5,174.31,28,1
+HAZ-0437,2017,8,Chennai,Heatwave,27.5,73.07,5,1
+HAZ-0438,2004,6,Tokyo,Flood,48.2,28.66,18,1
+HAZ-0439,2014,11,Houston,Heatwave,100.0,88.98,37,1
+HAZ-0440,2014,10,Melbourne,Severe Storm,53.9,70.82,14,0
+HAZ-0441,2007,12,Los Angeles,Flood,45.1,102.42,8,0
+HAZ-0442,2019,5,Seoul,Heatwave,83.9,255.38,30,1
+HAZ-0443,2018,4,Chennai,Drought,52.9,105.52,10,1
+HAZ-0444,2023,8,Melbourne,Severe Storm,70.6,93.97,29,1
+HAZ-0445,2007,10,Seoul,Heatwave,37.0,50.31,15,0
+HAZ-0446,2016,3,Dubai,Flood,39.7,111.78,13,1
+HAZ-0447,2019,3,Melbourne,Flood,64.5,63.44,22,0
+HAZ-0448,2016,1,Ho Chi Minh City,Severe Storm,36.5,89.01,12,1
+HAZ-0449,2004,1,Jakarta,Heatwave,77.4,63.43,13,0
+HAZ-0450,2010,7,Los Angeles,Drought,91.7,128.93,33,1

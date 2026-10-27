@@ -1,0 +1,26 @@
+city,country,latitude,longitude,elevation_m,distance_to_coast_km,flood_hazard,heat_hazard,drought_hazard,wildfire_hazard,rainfall_hazard,climate_zone
+Mumbai,India,19.076,72.8777,14,2,88.0,78.5,32.0,18.0,94.0,Tropical
+New York,USA,40.7128,-74.006,10,5,76.0,62.0,28.0,15.0,72.0,Temperate
+Singapore,Singapore,1.3521,103.8198,15,1,65.0,85.0,15.0,12.0,84.0,Tropical
+Rotterdam,Netherlands,51.9244,4.4777,-2,25,82.0,42.0,30.0,10.0,68.0,Temperate
+Tokyo,Japan,35.6762,139.6503,40,6,74.0,71.0,22.0,20.0,80.0,Temperate
+Houston,USA,29.7604,-95.3698,15,60,92.0,86.0,48.0,35.0,90.0,Subtropical
+Dubai,UAE,25.2048,55.2708,5,2,35.0,96.0,88.0,12.0,30.0,Arid
+Frankfurt,Germany,50.1109,8.6821,112,350,45.0,58.0,52.0,38.0,54.0,Temperate
+Sydney,Australia,-33.8688,151.2093,19,4,58.0,76.0,68.0,84.0,64.0,Temperate
+São Paulo,Brazil,-23.5505,-46.6333,760,55,68.0,64.0,74.0,40.0,78.0,Subtropical
+Jakarta,Indonesia,-6.2088,106.8456,8,1,95.0,82.0,25.0,15.0,92.0,Tropical
+London,UK,51.5074,-0.1278,25,65,56.0,54.0,46.0,18.0,58.0,Temperate
+Cairo,Egypt,30.0444,31.2357,23,160,28.0,92.0,90.0,22.0,18.0,Arid
+Shanghai,China,31.2304,121.4737,4,30,86.0,75.0,38.0,16.0,82.0,Subtropical
+Los Angeles,USA,34.0522,-118.2437,89,18,38.0,80.0,82.0,88.0,44.0,Mediterranean
+Bangkok,Thailand,13.7563,100.5018,2,25,91.0,86.0,30.0,14.0,89.0,Tropical
+Seoul,South Korea,37.5665,126.978,38,30,64.0,68.0,35.0,26.0,78.0,Continental
+Phoenix,USA,33.4484,-112.074,331,380,20.0,98.0,94.0,55.0,22.0,Arid
+Chennai,India,13.0827,80.2707,6,1,90.0,84.0,62.0,15.0,88.0,Tropical
+Vancouver,Canada,49.2827,-123.1207,4,1,52.0,48.0,35.0,65.0,82.0,Temperate
+Valencia,Spain,39.4699,-0.3763,15,3,75.0,79.0,76.0,60.0,84.0,Mediterranean
+Johannesburg,South Africa,-26.2041,28.0473,1753,480,30.0,62.0,78.0,50.0,48.0,Subtropical
+Ho Chi Minh City,Vietnam,10.8231,106.6297,19,45,89.0,84.0,28.0,15.0,91.0,Tropical
+Buenos Aires,Argentina,-34.6037,-58.3816,25,5,68.0,66.0,44.0,22.0,70.0,Subtropical
+Melbourne,Australia,-37.8136,144.9631,31,8,48.0,72.0,65.0,80.0,52.0,Temperate
